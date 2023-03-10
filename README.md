@@ -7,7 +7,7 @@ In this analysis we learn the skills needed to create interactive data visualiza
 
 ### The program uses Plotly.js to create three types of charts for the selected sample. 
   * Horizontal bar chart of the top 10 bacteria cultures found in the sample.
- ![hBar](https://user-images.githubusercontent.com/118647523/224199993-32907906-c2d7-4126-8d47-5828ce2d11bd.png)
+![hBar](https://user-images.githubusercontent.com/118647523/224200493-c4a76cee-c141-4848-97be-dc64f2364c63.png)
  
   * Bubble chart showing the distribution of bacteria cultures across all samples. 
 ![bubble](https://user-images.githubusercontent.com/118647523/224200032-f919d882-0f28-4aa2-a8d9-81c9a9745d26.png)
