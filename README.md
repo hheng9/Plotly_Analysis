@@ -6,19 +6,19 @@ In this analysis we learn the skills needed to create interactive data visualiza
 ## Results 
 
 ### The program uses Plotly.js to create three types of charts for the selected sample. 
-  * Horizontal bar chart of the top 10 bacteria cultures found in the sample.
+  ### * Horizontal bar chart of the top 10 bacteria cultures found in the sample.
 ![hBar](https://user-images.githubusercontent.com/118647523/224200493-c4a76cee-c141-4848-97be-dc64f2364c63.png)
  
-  * Bubble chart showing the distribution of bacteria cultures across all samples. 
+  ### * Bubble chart showing the distribution of bacteria cultures across all samples. 
 ![bubble](https://user-images.githubusercontent.com/118647523/224200032-f919d882-0f28-4aa2-a8d9-81c9a9745d26.png)
 
-  * Gauge chart displaying the washing frequency for the selected sample.
+  ### * Gauge chart displaying the washing frequency for the selected sample.
 
 ![wFreq](https://user-images.githubusercontent.com/118647523/224200054-cdb64dd8-b1a5-4ffe-9ead-b8ce3e79ac1d.png)
 
 
 
- * The code is a JavaScript program that initializes a dashboard with a dropdown menu to select a sample, and then uses D3.js to load and display data from a JSON file containing samples and metadata. The program updates the charts and metadata panel in real-time whenever a new sample is selected from the dropdown menu, allowing the user to explore and compare the data for different samples.
+ ### * The code is a JavaScript program that initializes a dashboard with a dropdown menu to select a sample, and then uses D3.js to load and display data from a JSON file containing samples and metadata. The program updates the charts and metadata panel in real-time whenever a new sample is selected from the dropdown menu, allowing the user to explore and compare the data for different samples.
 ![drop](https://user-images.githubusercontent.com/118647523/224199793-96752561-209a-4a24-b5cf-40784c7a5f53.png)
 
 
