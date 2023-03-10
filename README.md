@@ -22,8 +22,8 @@ In this analysis we learn the skills needed to create interactive data visualiza
   * buildMetadata() which creates a panel displaying the demographic information for a selected sample.
   * buildCharts() generates interactive plots displaying information about the bacteria cultures found in that sample.
 
-The end results displays and interactive dashboard that can be filter to view the information recorded accordingly.
-View my site is live at https://hheng9.github.io/Plotly_Analysis/
+### The end results displays and interactive dashboard that can be filter to view the information recorded accordingly.
+                       View my site is live at https://hheng9.github.io/Plotly_Analysis/
 
 ![All](https://user-images.githubusercontent.com/118647523/224201900-e9d4b9c6-810e-42e1-9fe7-0b189176855b.png)
 
