@@ -13,6 +13,7 @@ In this analysis we learn the skills needed to create interactive data visualiza
 ![bubble](https://user-images.githubusercontent.com/118647523/224200032-f919d882-0f28-4aa2-a8d9-81c9a9745d26.png)
 
   * Gauge chart displaying the washing frequency for the selected sample.
+
 ![wFreq](https://user-images.githubusercontent.com/118647523/224200054-cdb64dd8-b1a5-4ffe-9ead-b8ce3e79ac1d.png)
 
 
