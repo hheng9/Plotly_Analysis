@@ -18,10 +18,9 @@ In this analysis we learn the skills needed to create interactive data visualiza
 
 
 
-### The code is a JavaScript program that initializes a dashboard with a dropdown menu to select a sample, and then uses D3.js to load and display data from a JSON file containing samples and metadata.
+ * The code is a JavaScript program that initializes a dashboard with a dropdown menu to select a sample, and then uses D3.js to load and display data from a JSON file containing samples and metadata. The program updates the charts and metadata panel in real-time whenever a new sample is selected from the dropdown menu, allowing the user to explore and compare the data for different samples.
 ![drop](https://user-images.githubusercontent.com/118647523/224199793-96752561-209a-4a24-b5cf-40784c7a5f53.png)
 
-### The program updates the charts and metadata panel in real-time whenever a new sample is selected from the dropdown menu, allowing the user to explore and compare the data for different samples.
 
 ### The program defines two functions: buildMetadata() and buildCharts(), which respectively create a panel displaying the demographic information for a selected sample and generate interactive plots displaying information about the bacteria cultures found in that sample.
 
